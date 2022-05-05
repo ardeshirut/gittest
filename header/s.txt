@@ -2,3 +2,4 @@ slm
 khub nistam
 bale
 na
+alie
